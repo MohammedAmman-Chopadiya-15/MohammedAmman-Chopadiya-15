@@ -23,7 +23,7 @@
 
 <h2 align="left">⚙️ Technical Competencies</h2>
 
-- **Software Engineering & Backends:** Python, JavaScript, C#, FastAPI, Node.js, Express.js, RESTful APIs, WebSockets, MVC Architecture
+- **Software Engineering & Backends:** Python, JavaScript, C#, FastAPI, Django, Node.js, Express.js, RESTful APIs, WebSockets, MVC Architecture
 - **Frontend & Web:** React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
 - **Databases & Storage:** PostgreSQL, MySQL, MongoDB, SQLite, DynamoDB
 - **Cloud Architecture & DevOps:** AWS (EC2, S3, Lambda, API Gateway, VPC, Greengrass, CodePipeline, CodeDeploy), Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD Pipelines
@@ -67,11 +67,14 @@
   - **[Pharmacy Management System API](https://github.com/MohammedAmman-Chopadiya-15/Pharmacy-Management-System)**
     - *Tech Stack:* FastAPI, MySQL, JWT Authentication, Docker
     - *Description:* Containerized RESTful microservice supporting comprehensive operations, secure authorization, and OpenAPI docs.
+  - **[Jazleen Beauty & Art Institute](https://github.com/MohammedAmman-Chopadiya-15/Jazleen-Beauty-Art-Institute)** | [[Live Demo](https://jazleeninstitute.netlify.app/)]
+    - *Tech Stack:* React, Django, Python
+    - *Description:* Vibrant platform showcasing classes with a dedicated custom admin panel to manage course offerings and gallery content.
   - **[DigiHealth Healthcare Management System](https://github.com/MohammedAmman-Chopadiya-15/DigiHealth)**
     - *Tech Stack:* Node.js, Express.js, MongoDB, MVC Architecture
     - *Description:* Full-stack web application streamlining patient-provider interactions featuring dual-role authentication.
-  - **[InDiameter (Travel Platform)](https://github.com/MohammedAmman-Chopadiya-15/InDiameter)**
-    - *Tech Stack:* Full-Stack Web Technologies
+  - **[InDiameter (Travel Platform)](https://github.com/MohammedAmman-Chopadiya-15/InDiameter)** | [[Live Demo](https://indiameter.netlify.app/home/Z3Vlc3Q=)]
+    - *Tech Stack:* Full-Stack Web Technologies, React
     - *Description:* Travel platform built to offer users a seamless way to explore destinations, book accommodations, and manage itineraries.
   - **[LitLoom (Online Bookstore)](https://github.com/MohammedAmman-Chopadiya-15/LitLoom)**
     - *Tech Stack:* Full-Stack Web Development
@@ -87,7 +90,7 @@
 
 ---
 
-<h2 align="center">🌟 Highlighted Featured Projects (Top 7)</h2>
+<h2 align="center">🌟 Highlighted Featured Projects</h2>
 
 - **[Robot Management Mission Control System](https://github.com/MohammedAmman-Chopadiya-15/CMP9134-Robot-Management-System)**
   - *Tech Stack:* Python, FastAPI, WebSockets, Docker, SQLite, GitHub Actions
@@ -97,13 +100,17 @@
   - *Tech Stack:* FastAPI, MySQL, JWT Authentication, Docker, OpenAPI
   - *Engineering Highlight:* Containerized RESTful microservice supporting complete CRUD operations, secure token-based authorization, and automated API documentation.
 
+- **[Jazleen Beauty & Art Institute](https://github.com/MohammedAmman-Chopadiya-15/Jazleen-Beauty-Art-Institute)** | [[Live Demo](https://jazleeninstitute.netlify.app/)]
+  - *Tech Stack:* React, Django, Python
+  - *Engineering Highlight:* Full-stack platform featuring a custom-built admin panel for managing course and gallery content dynamically with a robust backend architecture.
+
 - **[DigiHealth Healthcare Management System](https://github.com/MohammedAmman-Chopadiya-15/DigiHealth)**
   - *Tech Stack:* Node.js, Express.js, MongoDB, MVC Architecture
   - *Engineering Highlight:* Developed using an **MVC architecture** in Node.js and Express with dual-role authentication and modular backend design.
 
-- **[LitLoom (Online Bookstore)](https://github.com/MohammedAmman-Chopadiya-15/LitLoom)**
-  - *Tech Stack:* Full-Stack Web Development, React, Node.js, PostgreSQL
-  - *Engineering Highlight:* An online bookstore offering a vast selection of books across genres with personalized recommendations and responsive user interfaces.
+- **[InDiameter (Travel Platform)](https://github.com/MohammedAmman-Chopadiya-15/InDiameter)** | [[Live Demo](https://indiameter.netlify.app/home/Z3Vlc3Q=)]
+  - *Tech Stack:* Full-Stack Web Technologies, React
+  - *Engineering Highlight:* Interactive web platform designed to streamline travel exploration, booking workflows, and itinerary organization with a smooth user interface.
 
 - **[AWS IoT Edge Robot](https://github.com/MohammedAmman-Chopadiya-15/aws-iot-robot)** *(AWS Community Day 2025 – Builder Fair)*
   - *Tech Stack:* Python, AWS Greengrass, MQTT, Raspberry Pi
@@ -112,10 +119,6 @@
 - **[Automated CI/CD Pipeline for Tic-Tac-Toe](https://github.com/MohammedAmman-Chopadiya-15/aws-cicd-tic-tac-toe)**
   - *Tech Stack:* Node.js, AWS CodePipeline, AWS CodeDeploy, PM2, EC2
   - *Engineering Highlight:* Fully automated continuous delivery pipeline deploying a Node.js app directly to Amazon EC2 triggered by Git commits.
-
-- **[AWS Cloud Exposure & Defensive Security Scanner](https://github.com/MohammedAmman-Chopadiya-15/aws-exposure-scanner)**
-  - *Tech Stack:* Serverless Architecture, AWS Lambda, Python
-  - *Engineering Highlight:* An automated, multi-region security posture and vulnerability auditing platform combining a serverless fan-out audit engine.
 
 ---
 
