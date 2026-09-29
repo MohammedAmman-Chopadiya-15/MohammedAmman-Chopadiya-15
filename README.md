@@ -25,33 +25,97 @@
 
 - **Software Engineering & Backends:** Python, JavaScript, C#, FastAPI, Node.js, Express.js, RESTful APIs, WebSockets, MVC Architecture
 - **Frontend & Web:** React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, SQLite
-- **Cloud Architecture & DevOps:** AWS (EC2, S3, Lambda, API Gateway, VPC, Greengrass), Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD Pipelines
+- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, SQLite, DynamoDB
+- **Cloud Architecture & DevOps:** AWS (EC2, S3, Lambda, API Gateway, VPC, Greengrass, CodePipeline, CodeDeploy), Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD Pipelines
 - **Operating Systems & Scripting:** Linux (RHEL, CentOS, Ubuntu), Bash/Shell Scripting, Git
 
 ---
 
-<h2 align="center">🏗️ Featured Projects & System Design</h2>
+<h2 align="center">📂 Project Directory</h2>
+<p align="center">Click the dropdowns below to explore all my repositories grouped by domain:</p>
+
+<details>
+  <summary><b>☁ View All Cloud & Infrastructure Projects</b> (Click to expand)</summary>
+
+  - **[AWS IoT Edge Robot](https://github.com/MohammedAmman-Chopadiya-15/aws-iot-robot)** *(AWS Community Day 2025 – Builder Fair)*
+    - *Tech Stack:* Python, AWS Greengrass, MQTT, Raspberry Pi
+    - *Description:* Fully functional cloud-controlled edge device combining local event-driven processing with live cloud telemetry streaming.
+  - **[AWS Cloud Exposure & Defensive Security Scanner](https://github.com/MohammedAmman-Chopadiya-15/aws-exposure-scanner)**
+    - *Tech Stack:* Serverless Architecture, AWS Lambda, Python
+    - *Description:* Automated, multi-region security posture and vulnerability auditing platform combining a serverless fan-out audit engine.
+  - **[Automated CI/CD Pipeline for Tic-Tac-Toe](https://github.com/MohammedAmman-Chopadiya-15/aws-cicd-tic-tac-toe)**
+    - *Tech Stack:* Node.js, AWS CodePipeline, AWS CodeDeploy, PM2, EC2
+    - *Description:* Fully automated continuous delivery pipeline deploying a Node.js app directly to Amazon EC2 triggered by Git commits.
+  - **[Scalable AWS Cloud Infrastructure](https://github.com/MohammedAmman-Chopadiya-15/aws-scalable-web-infrastructure)**
+    - *Tech Stack:* AWS EC2, Auto Scaling, Application Load Balancer, Nginx, SSL
+    - *Description:* Highly available, fault-tolerant web architecture designed to handle dynamic traffic spikes across multiple Availability Zones.
+  - **[Serverless Face Blurring with AWS](https://github.com/MohammedAmman-Chopadiya-15/aws-serverless-face-blur)**
+    - *Tech Stack:* AWS Lambda, S3, AI/ML Services
+    - *Description:* Fully automated serverless image processing pipeline that detects and blurs faces using artificial intelligence.
+  - **[Serverless Todo List Application on AWS](https://github.com/MohammedAmman-Chopadiya-15/aws-serverless-todo-app)**
+    - *Tech Stack:* AWS Lambda, API Gateway, DynamoDB, CloudWatch
+    - *Description:* Fully serverless, cloud-native Todo List application demonstrating RESTful CRUD operations and auto-scaling backend logic.
+
+</details>
+
+<details>
+  <summary><b>💻 View All Software Engineering & Full-Stack Projects</b> (Click to expand)</summary>
+
+  - **[Robot Management Mission Control System](https://github.com/MohammedAmman-Chopadiya-15/CMP9134-Robot-Management-System)**
+    - *Tech Stack:* Python, FastAPI, WebSockets, Docker, SQLite, GitHub Actions
+    - *Description:* Robust multi-container system for managing and tracking autonomous units with real-time WebSocket telemetry.
+  - **[Pharmacy Management System API](https://github.com/MohammedAmman-Chopadiya-15/Pharmacy-Management-System)**
+    - *Tech Stack:* FastAPI, MySQL, JWT Authentication, Docker
+    - *Description:* Containerized RESTful microservice supporting comprehensive operations, secure authorization, and OpenAPI docs.
+  - **[DigiHealth Healthcare Management System](https://github.com/MohammedAmman-Chopadiya-15/DigiHealth)**
+    - *Tech Stack:* Node.js, Express.js, MongoDB, MVC Architecture
+    - *Description:* Full-stack web application streamlining patient-provider interactions featuring dual-role authentication.
+  - **[InDiameter (Travel Platform)](https://github.com/MohammedAmman-Chopadiya-15/InDiameter)**
+    - *Tech Stack:* Full-Stack Web Technologies
+    - *Description:* Travel platform built to offer users a seamless way to explore destinations, book accommodations, and manage itineraries.
+  - **[LitLoom (Online Bookstore)](https://github.com/MohammedAmman-Chopadiya-15/LitLoom)**
+    - *Tech Stack:* Full-Stack Web Development
+    - *Description:* Online bookstore offering a vast selection of books across genres with personalized recommendations.
+  - **[AI and Machine Learning Internship Portfolio](https://github.com/MohammedAmman-Chopadiya-15/Batwebs_Solutions-Internship)**
+    - *Tech Stack:* Python, Machine Learning, Power BI
+    - *Description:* Comprehensive internship portfolio covering machine learning algorithms, data processing, and business intelligence reporting.
+  - **[Resume Bootstrap Template](https://github.com/MohammedAmman-Chopadiya-15/Resume_Bootstrap)**
+    - *Tech Stack:* HTML, CSS, Bootstrap
+    - *Description:* Clean and responsive frontend template designed for professional resume presentation.
+
+</details>
+
+---
+
+<h2 align="center">🌟 Highlighted Featured Projects (Top 7)</h2>
 
 - **[Robot Management Mission Control System](https://github.com/MohammedAmman-Chopadiya-15/CMP9134-Robot-Management-System)**
-  - *What it does:* A robust multi-container system designed for managing, monitoring, and auditing autonomous units.
-  - *Engineering Highlight:* Built with a performant **FastAPI** backend utilizing real-time **WebSocket telemetry** tracking, containerized via **Docker**, and automated with **GitHub Actions** CI/CD pipelines.
+  - *Tech Stack:* Python, FastAPI, WebSockets, Docker, SQLite, GitHub Actions
+  - *Engineering Highlight:* Built with a high-performance **FastAPI** backend utilizing real-time **WebSocket telemetry** tracking, containerized via **Docker**, and automated with **GitHub Actions** CI/CD pipelines.
 
 - **[Pharmacy Management System API](https://github.com/MohammedAmman-Chopadiya-15/Pharmacy-Management-System)**
-  - *What it does:* A containerized RESTful microservice supporting comprehensive pharmacy operations.
-  - *Engineering Highlight:* Features secure **JWT authentication**, MySQL backend integration, and automated OpenAPI documentation.
+  - *Tech Stack:* FastAPI, MySQL, JWT Authentication, Docker, OpenAPI
+  - *Engineering Highlight:* Containerized RESTful microservice supporting complete CRUD operations, secure token-based authorization, and automated API documentation.
 
 - **[DigiHealth Healthcare Management System](https://github.com/MohammedAmman-Chopadiya-15/DigiHealth)**
-  - *What it does:* A full-stack web application streamlining interactions between patients and healthcare providers.
-  - *Engineering Highlight:* Developed using an **MVC architecture** in Node.js and Express with dual-role authentication and MongoDB storage.
+  - *Tech Stack:* Node.js, Express.js, MongoDB, MVC Architecture
+  - *Engineering Highlight:* Developed using an **MVC architecture** in Node.js and Express with dual-role authentication and modular backend design.
+
+- **[LitLoom (Online Bookstore)](https://github.com/MohammedAmman-Chopadiya-15/LitLoom)**
+  - *Tech Stack:* Full-Stack Web Development, React, Node.js, PostgreSQL
+  - *Engineering Highlight:* An online bookstore offering a vast selection of books across genres with personalized recommendations and responsive user interfaces.
 
 - **[AWS IoT Edge Robot](https://github.com/MohammedAmman-Chopadiya-15/aws-iot-robot)** *(AWS Community Day 2025 – Builder Fair)*
-  - *What it does:* A fully functional cloud-controlled edge device built with a Raspberry Pi.
+  - *Tech Stack:* Python, AWS Greengrass, MQTT, Raspberry Pi
   - *Engineering Highlight:* Combines local event-driven processing via **AWS Greengrass** with live cloud telemetry streaming using **MQTT protocols**.
 
 - **[Automated CI/CD Pipeline for Tic-Tac-Toe](https://github.com/MohammedAmman-Chopadiya-15/aws-cicd-tic-tac-toe)**
-  - *What it does:* A fully automated deployment pipeline for a Node.js web application.
-  - *Engineering Highlight:* Utilizes **AWS CodePipeline** and **CodeDeploy** to achieve hands-off continuous delivery directly to Amazon EC2 triggered by git commits.
+  - *Tech Stack:* Node.js, AWS CodePipeline, AWS CodeDeploy, PM2, EC2
+  - *Engineering Highlight:* Fully automated continuous delivery pipeline deploying a Node.js app directly to Amazon EC2 triggered by Git commits.
+
+- **[AWS Cloud Exposure & Defensive Security Scanner](https://github.com/MohammedAmman-Chopadiya-15/aws-exposure-scanner)**
+  - *Tech Stack:* Serverless Architecture, AWS Lambda, Python
+  - *Engineering Highlight:* An automated, multi-region security posture and vulnerability auditing platform combining a serverless fan-out audit engine.
 
 ---
 
